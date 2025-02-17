@@ -5,6 +5,10 @@
 === Research
 
 ==== Deep Learning Theory 
+
+(A-Z) Bruna, J., Glasgow, M., Wu, D., Mean-field analysis of polynomial-width two-layer neural network beyond finite time horizon. [meanfield.pdf Working Paper.] /Under Review./ 
+
+
 Glasgow, M. SGD Finds then Tunes Features in Two-Layer Neural Networks with near-Optimal Sample Complexity: A Case Study in the XOR problem. [https://arxiv.org/abs/2309.15111 Arxiv.] /ICLR 2024 (Spotlight)./
 
 Mahankali, A., Haochen, J.,Dong, K., Glasgow, M., Ma, T. Beyond NTK with Vanilla Gradient Descent: A Mean-Field Analysis of Neural Networks with Polynomial Width, Samples, and Time. [https://arxiv.org/abs/2306.16361 Arxiv.] /Neurips 2023./
@@ -13,7 +17,9 @@ Glasgow, M., Wei, C., Wootters, M., Ma, T. Max-Margin Works while Large Margin F
 
 ==== Distributed Optimization
 
-Patel, K.\*,  Glasgow, M.\*, Wang, L., Joshi, N., Srebro, N. On the Still Unreasonable Effectiveness of Federated Averaging for Heterogeneous Distributed Learning [https://arxiv.org/abs/2405.11667 Arxiv.] /COLT 2024./
+Cheng, Z., Glasgow, M. Convergence of Distributed Adaptive Optimization with Local Updates [https://arxiv.org/abs/2409.13155 Arxiv.] /ICLR 2025./
+
+Patel, K.,  Glasgow, M., Wang, L., Joshi, N., Srebro, N. On the Still Unreasonable Effectiveness of Federated Averaging for Heterogeneous Distributed Learning [https://arxiv.org/abs/2405.11667 Arxiv.] /COLT 2024./
 
 Glasgow, M.\*, Yuan, H.\*, Ma, T. Sharp Bounds for Federated Averaging (Local SGD) and Continous Perspective [http://arxiv.org/abs/2111.03741 Arxiv.] /AISTATS 2022./
 
