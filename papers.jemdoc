@@ -6,7 +6,7 @@
 
 ==== Deep Learning Theory 
 
-(A-Z) Bruna, J., Glasgow, M., Wu, D., Mean-field analysis of polynomial-width two-layer neural network beyond finite time horizon. [meanfield.pdf Working Paper.] /Under Review./ 
+Glasgow, M., Wu, D., Bruna, J. Mean-field analysis of polynomial-width two-layer neural network beyond finite time horizon. [meanfield.pdf Working Paper.] /Under Review./ 
 
 
 Glasgow, M. SGD Finds then Tunes Features in Two-Layer Neural Networks with near-Optimal Sample Complexity: A Case Study in the XOR problem. [https://arxiv.org/abs/2309.15111 Arxiv.] /ICLR 2024 (Spotlight)./
