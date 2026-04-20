@@ -4,9 +4,11 @@
 
 === Research
 
-==== Deep Learning Theory 
+==== Deep Learning Theory
+ 
+Glasgow, M. Bruna, J. Quantitative Propagation of Chaos in Mean-Field NNs: Sufficient Conditions, Lower Bounds, and Uniform-in-Time Guarantees. [margalitglasgow.github.io/meanfield.pdf Manuscript.] / In Preparation. / 
 
-Glasgow, M., Wu, D., Bruna, J. Propagation of Chaos in One-hidden-layer Neural Networks beyond Logarithmic Time. [https://arxiv.org/abs/2504.13110 Arxiv 2025.] /Under Review./ 
+Glasgow, M., Wu, D., Bruna, J. Propagation of Chaos in One-hidden-layer Neural Networks beyond Logarithmic Time. [https://arxiv.org/abs/2504.13110 Arxiv 2025.] /COLT 2025./  
 
 
 Glasgow, M. SGD Finds then Tunes Features in Two-Layer Neural Networks with near-Optimal Sample Complexity: A Case Study in the XOR problem. [https://arxiv.org/abs/2309.15111 Arxiv.] /ICLR 2024 (Spotlight)./
