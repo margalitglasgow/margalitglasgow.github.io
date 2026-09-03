@@ -1,0 +1,81 @@
+# jemdoc: menu{MENU}{index.html}
+
+\n
+= 18.204 Seminar in Discrete Math | Fall 2026
+
+*Instructor*: Margalit Glasgow (mglasgow@mit.edu)
+
+*Communication Specialist*: Michael Maune (mmaune@mit.edu)
+
+*Class Schedule*: Tuesday and Thursday 11:00am-12:30pm 
+# *Attendence in this course is mandatory*. If you cannot attend, please email me in advance with an explanation of your absense. More than
+# three unexcused absences will lead to automatic failure in the course.
+
+*Office Hours*: TBD
+# Tuesday and Thursday 4pm-5pm, or by appointment. Room: [TODO]
+
+*Course Goals and Description* In a seminar, mathematicians help each other to learn a body
+of material. The main object of this undergraduate seminar is for you to help each other learn
+about *combinatorial learning theory*, while simultaneously helping each other to better present,
+discuss, write, and read mathematics. To this end, you will take turns collaboratively
+presenting sections from a textbook or research papers to each other, and you will also write a 10-page
+expository paper on a topic of your choice. Topics include classical ideas such as:
+- PAC Learning and the VC dimension
+- Online Learning and the Littlestone dimension
+- Differentially Private Learning
+- Boosting
+{{...}} along with more recent research papers in the field.
+
+The main course deliverables will be:
+. A 40-minute chalkboard presentenation based on textbook or course notes material. You must meet with me to get feedback on your presentation before presenting.
+. A 40-minute slide presentation on material from a research paper. You will also be responsible for writing several p-set questions for your classmates based on the content of this paper.
+  (1 question for your students to prepare for the presentation, and 1 question for the students to review their understanding of the presentation afterward)
+. A 20-minute presentation (slides or chalkboard) on the topic of your final paper.
+. A 10-page expository paper on a topic of your choice. This will be completed in stages. You will
+  propose a topic or choose one from the provided list (available by 9/10), write a partial draft for feedback from me, complete the paper, submit it
+  for feedback from peers, critique the drafts of two of your classmates, and submit the final
+  draft of the paper by the end of the last class.
+  The paper need not contain original results, but the writing must be your own and all
+  sources must be properly acknowledged
+  # (see the writing resources on [CANVAS] for examples, and ask if you have questions).
+  The paper must be written in the style of a research or expository journal article and must be about 10 pages long.
+  #  (in the template provided [HERE]).
+. Several small problem sets based on the topics of the presentations. These will be textbook questions or questions written by me in the first section of the course, and later questions written by your classmates. 
+
+
+*Textbook and Material* 
+We will follow some chapters from [https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html Understanding Maching Learning] by Shalev-Shwartz and Ben-David. Further materials will be given in the course schedule. The full course schedule is available [https://docs.google.com/document/d/1tlC9N5zz1vuS9K6YeD_oU5x_dg7QUb1RL4OO8PATzqU/edit?usp=sharing here] (tentative). 
+All sources are available freely online.
+# and [https://cs.nyu.edu/~mohri/mlbook/ Foundations of Machine Learning] by Mohri, Rostamizadeh, and Talwalkar.  
+
+*Prerequisites* 
+The formal prerequisites are ((6.1200 or 18.200) and (18.06, 18.700, or 18.701)), and it is important that you have a solid understanding of discrete probability. 
+You should be comfortable with tail bounds (Markov, Chebychev, Chernoff bounds); see for example Ankur Moitra's notes [https://ocw.mit.edu/courses/18-200-principles-of-discrete-applied-mathematics-spring-2024/resources/mit18_200_s24_lec09-10_pdf/ here].
+
+Since the topics of this course will build upon eachother, it will be essential to stay on top of the material throughout the semester. 
+
+
+*Class Participation Roles and Feedback* In addition to attending class, you will be expected to actively engage in class discussion. To encourage participation, students will be assigned the roles such as the following (expect to perform a role once every few classes):
+. /Scribe/: take and type up notes from the class presentation.
+. /Designated novice/: Ask at least once about a step that could benefit from more explanation.
+. /Nit-picker/: Point out any notation or mathematical errors (focus on ones that can be confusing).
+. /Hypothesis tester/: Pick one interesting way to weaken the assumption of a result presented. Try to figure out if/how the result breaks, and show a counterexample if possible. Share your finding or ask for the presenter or class's thoughts at the end of the presentation.
+. /Example generator/: Find a simple example demonstrating the main result.
+
+Additionally, everyone will be expected to give feedback at the end of each class session, using the [https://forms.gle/iKoVNjGcq4Q9oFUs6 feedback form].
+
+*Grading*
+. 50\% talks. (20\%, 20\%, 10\% for each talk)
+. 15\% attendance, participation roles, and feedback to presenters
+. 10\% problem sets
+. 25\% final paper, including drafts and peer critique
+
+*AI Usage Policy*
+You may use AI to help you understand the content of the sources of your presentation or paper, and to choose topics and sources for you final paper. AI may NOT be used to write any part of the presentation or paper itself. The exception is for generating figures or formatting. 
+Any use of AI should be stated in the acknowledgements section of the paper or at the end of the presentation. 
+
+For problem sets, while I encourage you to try to solve the problems independently or with your peers, you may use AI for brainstorming. Attach to your pset the prompts and outputs you gave to AI, along with a note on how you used them. 
+
+If you are unsure if a use of AI is acceptable, please consult with me.  Misuse of AI, including direct copying, may be considered academic dishonesty.
+
+
