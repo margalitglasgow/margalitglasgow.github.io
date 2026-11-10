@@ -5,7 +5,7 @@ Contact:[margalit.r.glasgow@gmail.com]
 == 
 ~~~
 {}{img_left}{deathvalley.jpg}{death_valley}{302}{408}
-I'm Margalit, a postdoc in LIDS/IDSS at MIT. I'm fortunate to be advised by [https://www.mit.edu/~rakhlin/ Sasha Rakhlin]. I'm broadly interested theoretical machine learning and high dimensional probability, and recently my research has focused on deep learning theory.
+I'm Margalit, a postdoc in LIDS/IDSS at MIT. I'm fortunate to be advised by [https://www.mit.edu/~rakhlin/ Sasha Rakhlin]. My research lies in the intersection of high dimensional probablity, optimization, and machine learning. A key focus of my research is understanding why deep learning works. How do neural networks, trained with gradient descent in non-convex landscapes, learn to recognize useful patterns in data and generalize beyond the training data? When do they fail to learn efficiently? Looking ahead, I’m especially interested in using this understanding, along with emprical approaches, to make AI more efficient and reliable. 
 
 Before MIT, I was a postdoctoral fellow at the Simons Institute in the [https://simons.berkeley.edu/programs/modern-paradigms-generalization Modern Paradigms in Generalization] program. 
 In 2024, I completed my PhD in Computer Science at Stanford university, advised by [https://sites.google.com/site/marywootters/ Mary Wootters] and [https://ai.stanford.edu/~tengyuma/ Tengyu Ma]. Before coming to Stanford, I studied Math with Computer Science (18C) at MIT.
